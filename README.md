@@ -26,6 +26,7 @@ Now open the DEV c++ IDE and click on :
 file>new>project>empty project
 
 and choose a path where you would like to save your project and project name.
+<img src="https://bestengineeringprojects.com/wp-content/uploads/2013/12/paint_program_devc.jpg">
 
 Now click on:
 
