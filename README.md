@@ -1,6 +1,6 @@
 <b>How to know more windows.h header file?</b></br>
 if you must stay in windows operating system otherwise you will get an error if you using other operating system just use virtual box.
-Okay you just to need to go https://docs.microsoft.com/en-us/windows/win32/winprog/using-the-windows-headers if you stack with docomentation just simply go stackoverflow.com it will help you a lot.
+Okay you just to need to go https://docs.microsoft.com/en-us/windows/win32/winprog/using-the-windows-headers if you stack with docomentation just simply go https://stackoverflow.com it will help you a lot.
 
 <b>How to Add Graphics.h header file??</b></br>
 DEV c++ Ide and External Graphics Library:
