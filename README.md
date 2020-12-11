@@ -1,4 +1,8 @@
-How to Add Graphics.h header file??
+<b>How to know more windows.h header file?</b>
+if you must stay in windows operating system otherwise you will get an error if you using other operating system just use virtual box.
+Okay you just to need to go https://docs.microsoft.com/en-us/windows/win32/winprog/using-the-windows-headers if you stack with docomentation just simply go stackoverflow.com it will help you a lot.
+
+<b>How to Add Graphics.h header file??</b>
 DEV c++ Ide and External Graphics Library:
 
 To develop this Paint Program, We will be using the DEV c++ IDE (Integrated Development Environment)  , Which you download from the official site of DEV c++ (http://www.bloodshed.net/devcpp.html), Also for handling the graphics we will be using the WinBGIm Graphics Library provided by the Computer Science department of Colorado University the full tutorial to implement the WinBGIm Graphics Library into Dev C++ ide can be read from the official site of WinBGIm Graphics Library (http://www.cs.colorado.edu/~main/bgi/dev-c++/  ).
